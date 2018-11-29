@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4b4edfaa_6f1f1168",
+        "filename": "libc/bionic/pthread_mutex.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 787,
+      "author": {
+        "id": 1000086
+      },
+      "writtenOn": "2018-11-29T19:20:38Z",
+      "side": 1,
+      "message": "`inline __attribute((noinline))` doesn\u0027t make much sense...",
+      "revId": "98e74fee4ca1bd42870c53629b2ea570a2d3904e",
+      "serverId": "44769751-fbfc-497d-9c9a-4bb318a4117c",
+      "unresolved": true
+    }
+  ]
+}
